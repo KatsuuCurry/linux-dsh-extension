@@ -1,5 +1,5 @@
 # linux-dsh-extension
-Assignment for the "Operating Systems and Networks" course (II year course of Bachelor's Degree in Computer Science at the University of Bicocca).
+Assignment for the "Operating Systems and Networks" course (2nd Year Bachelor's in Computer Science, Bicocca University).
 
 This project is a basic shell implementation that offers essential command-line functionalities. It allows users to execute programs, manage input/output, and work with custom environment variables.
 
